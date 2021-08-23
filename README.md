@@ -39,7 +39,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 With the contrast of the number of healthy loans versus unhealthy loans in the dataset, I would recommend using Machine Learning Model 2.  As you can see, the accuracy improved from 95% in Model 1 to 99% in Model 2 and the f1 score improved from 88% to 91% on the unhealthy loans.  
 
-    !(https://github.com/abolla04/Module_12_Challenge/blob/main/Images/Classification_Report_Imbalanced.png)
+    ![Images](https://github.com/abolla04/Module_12_Challenge/blob/main/Images/Classification_Report_Imbalanced.png)
 
     !(Classification_Report_Resampled.png)
 
